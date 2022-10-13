@@ -1,0 +1,9 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/kocka1" android:duration="200" />
+    <item android:drawable="@drawable/kocka2" android:duration="200" />
+    <item android:drawable="@drawable/kocka3" android:duration="200" />
+    <item android:drawable="@drawable/kocka4" android:duration="200" />
+    <item android:drawable="@drawable/kocka5" android:duration="200" />
+    <item android:drawable="@drawable/kocka6" android:duration="200" />
+</animation-list>
